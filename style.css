@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(251, 203, 222);
+  color: rgb(131, 10, 50);
+}
+div {
+  background-color: rgb(255, 148, 198);
+  color: rgb(131, 10, 50);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(49, 48, 48);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(15, 15, 15);
+}
